@@ -4,7 +4,7 @@ package Controle.DesafioEstruturasControle;
 
 import java.util.Scanner;
 
-public class Desafio1 {
+public class Entre10EPar {
     public static void main(String[] args) {
         // 1. Criar um programa que receba um número
         // e verifique se ele está entre 0 e 10 e é par;

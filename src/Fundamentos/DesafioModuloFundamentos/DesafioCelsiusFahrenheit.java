@@ -1,4 +1,4 @@
-package DesafioModuloFundamentos;
+package Fundamentos.DesafioModuloFundamentos;
 import java.util.Scanner;
 
 public class DesafioCelsiusFahrenheit {
